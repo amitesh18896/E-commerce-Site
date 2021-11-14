@@ -1,4 +1,4 @@
-# React & Node Tutorial - Full ECommerce website]
+# React & Node  - Full ECommerce website]
 
 
 
